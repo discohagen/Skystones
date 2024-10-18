@@ -1,14 +1,44 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-fun main() {
-    val name = "Kotlin"
-    //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-    // to see how IntelliJ IDEA suggests fixing it.
-    println("Hello, $name!")
+import java.io.File
 
-    for (i in 1..5) {
-        //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-        // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-        println("i = $i")
+fun loadCardsFromJson(filePath: String): List<Card> {
+    val jsonText = File(filePath).readText()
+    val jsonArray = jsonText
+        .trim()
+        .removeSurrounding("[", "]")
+        .split("},")
+        .map {
+            it
+                .trim()
+                .removeSuffix("}") + "}"
+        }
+
+    return jsonArray.map { jsonObject ->
+        val props = jsonObject
+            .removeSurrounding("{", "}")
+            .split(",")
+            .associate { it ->
+                val (key, value) = it
+                    .split(":")
+                    .map {
+                        it
+                            .trim()
+                            .removeSurrounding("\"")
+                    }
+                key to value
+            }
+
+        Card(
+            name = props["name"] ?: "",
+            northSpikes = props["northSpikes"]?.toInt() ?: 0,
+            eastSpikes = props["eastSpikes"]?.toInt() ?: 0,
+            southSpikes = props["southSpikes"]?.toInt() ?: 0,
+            westSpikes = props["westSpikes"]?.toInt() ?: 0
+        )
     }
+}
+
+fun main() {
+    val cardsFilePath = "resources/cards.json"
+    val cards = loadCardsFromJson(cardsFilePath)
+    cards.forEach { println(it) }
 }

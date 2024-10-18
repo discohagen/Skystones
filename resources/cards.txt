@@ -1,0 +1,1218 @@
+
+<tr>
+<td>Drow Lance Master
+</td>
+<td>None
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>1
+</td>
+<td>Default.
+</td></tr>
+<tr>
+<td>Drow Lance Master 2
+</td>
+<td>None
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>2
+</td>
+<td>Chance in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Drow Lance Master 3
+</td>
+<td>None
+</td>
+<td>3
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>3
+</td>
+<td>Dreadbeard in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Drow Lance Master 4
+</td>
+<td>None
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>Catherine in&nbsp;<i>Wilikin Village.</i>
+</td></tr>
+<tr>
+<td>Mohawk Cyclops
+</td>
+<td>None
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>Bandit in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Mohawk Cyclops 2
+</td>
+<td>None
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>Kensington in&nbsp;<i>Kaos' Kastle.</i>
+</td></tr>
+<tr>
+<td>Mohawk Cyclops 3
+</td>
+<td>None
+</td>
+<td>3
+</td>
+<td>0
+</td>
+<td>3
+</td>
+<td>0
+</td>
+<td>Dreadbeard in&nbsp;<i>Cutthroat Carnival</i> or in the&nbsp;<i>Dread-Yacht.</i>
+</td></tr>
+<tr>
+<td>Mohawk Cyclops 4
+</td>
+<td>None
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>Bert in&nbsp;<i>Junkyard Isles.</i>
+</td></tr>
+<tr>
+<td>Mace Major
+</td>
+<td>None
+</td>
+<td>0
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>1
+</td>
+<td>Chance in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Mace Major 2
+</td>
+<td>None
+</td>
+<td>0
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>2
+</td>
+<td>Blobbers, after defeating Fang once in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Mace Major 3
+</td>
+<td>None
+</td>
+<td>0
+</td>
+<td>3
+</td>
+<td>0
+</td>
+<td>3
+</td>
+<td>Bert in&nbsp;<i>Junkyard Isles.</i>
+</td></tr>
+<tr>
+<td>Mace Major 4
+</td>
+<td>None
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>Bert in&nbsp;<i>Junkyard Isles.</i>
+</td></tr>
+<tr>
+<td>Drow Archer
+</td>
+<td>None
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>Default.
+</td></tr>
+<tr>
+<td>Drow Archer 2
+</td>
+<td>None
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>Auric in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Drow Archer 3
+</td>
+<td>None
+</td>
+<td>3
+</td>
+<td>3
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>Dreadbeard in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Blaster Troll
+</td>
+<td>None
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>Default.
+</td></tr>
+<tr>
+<td>Blaster Troll 2
+</td>
+<td>None
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>Bandit in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Blaster Troll 3
+</td>
+<td>None
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>3
+</td>
+<td>3
+</td>
+<td>Dreadbeard in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Chompy Bot 9000
+</td>
+<td>None
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>Auric in&nbsp;<i>Troll Home Security.</i>
+</td></tr>
+<tr>
+<td>Chompy Bot 9000 2
+</td>
+<td>None
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>Auric in&nbsp;<i>Aerial Attack!</i>
+</td></tr>
+<tr>
+<td>Chompy Bot 9000 3
+</td>
+<td>None
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>Auric in&nbsp;<i>Drill-X's Big Rig.</i>
+</td></tr>
+<tr>
+<td>Chompy Bot 9000 4
+</td>
+<td>None
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>Auric in&nbsp;<i>Molekin Mountain.</i>
+</td></tr>
+<tr>
+<td>Chompy Bot 9000 5
+</td>
+<td>None
+</td>
+<td>3
+</td>
+<td>3
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>Auric in&nbsp;<i>The Oracle.</i>
+</td></tr>
+<tr>
+<td>Chompy Bot 9000 6
+</td>
+<td>None
+</td>
+<td>3
+</td>
+<td>3
+</td>
+<td>3
+</td>
+<td>3
+</td>
+<td>Auric in&nbsp;<i>Autogyro Adventure.</i>
+</td></tr>
+<tr>
+<td>Arkeyan Jouster
+</td>
+<td>None
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>Dreadbeard in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Arkeyan Jouster 2
+</td>
+<td>None
+</td>
+<td>3
+</td>
+<td>0
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>Dreadbeard in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Arkeyan Jouster 3
+</td>
+<td>None
+</td>
+<td>3
+</td>
+<td>0
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>Weapon Master in&nbsp;<i>Secret Vault of Secrets.</i>
+</td></tr>
+<tr>
+<td>Arkeyan Jouster 4
+</td>
+<td>None
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>Auric in&nbsp;<i>Glacier Gully.</i>
+</td></tr>
+<tr>
+<td>Arkeyan Jouster 5
+</td>
+<td>None
+</td>
+<td>3
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>
+<p>Bert in&nbsp;<i>Junkyard Isles.</i>
+</p>
+</td></tr>
+<tr>
+<td>Inhuman Shield
+</td>
+<td>None
+</td>
+<td>0
+</td>
+<td>2
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>Default
+</td></tr>
+<tr>
+<td>Inhuman Shield 2
+</td>
+<td>None
+</td>
+<td>0
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>Dreadbeard in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Inhuman Shield 3
+</td>
+<td>None
+</td>
+<td>0
+</td>
+<td>3
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>Gurglefin in&nbsp;<i>Troll Home Security.</i>
+</td></tr>
+<tr>
+<td>Inhuman Shield 4
+</td>
+<td>None
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>Auric in the&nbsp;<i>Dread-yacht.&nbsp;</i>(mid-story)
+</td></tr>
+<tr>
+<td>Inhuman Shield 5
+</td>
+<td>None
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>Quigley in&nbsp;<i>Rumbletown.</i>
+</td></tr>
+<tr>
+<td>D. Riveter
+</td>
+<td>None
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>2
+</td>
+<td>Dreadbeard in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>D. Riveter 2
+</td>
+<td>None
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>3
+</td>
+<td>Dreadbeard in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>D. Riveter 3
+</td>
+<td>None
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>3
+</td>
+<td>Gurglefin in&nbsp;<i>Troll Home Security.</i>
+</td></tr>
+<tr>
+<td>D. Riveter 4
+</td>
+<td>None
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>Quick Draw in&nbsp;<i>Molekin Mountain.</i>
+</td></tr>
+<tr>
+<td>D. Riveter 5
+</td>
+<td>None
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>Weapons Master in&nbsp;<i>Secret Vault of Secrets.</i>
+</td></tr>
+<tr>
+<td>Jawbreaker
+</td>
+<td>None
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>Rutherford in&nbsp;<i>Wilikin Village.</i>
+</td></tr>
+<tr>
+<td>Jawbreaker 2
+</td>
+<td>None
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>0
+</td>
+<td>Weapon Master in&nbsp;<i>Secret Vault of Secrets.</i>
+</td></tr>
+<tr>
+<td>Jawbreaker 3
+</td>
+<td>None
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>0
+</td>
+<td>Auric on the&nbsp;<i>Dread-Yacht.&nbsp;</i>(mid-story)
+</td></tr>
+<tr>
+<td>Jawbreaker 4
+</td>
+<td>None
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>Freebot in&nbsp;<i>Lost City of Arkus.</i>
+</td></tr>
+<tr>
+<td>Jawbreaker 5
+</td>
+<td>None
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>2
+</td>
+<td>Quigley in&nbsp;<i>Rumbletown.</i>
+</td></tr>
+<tr>
+<td>Enfuego Chompy
+</td>
+<td>Fire
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>Fangs in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Enfuego Chompy 2
+</td>
+<td>Fire
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>Fangs in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Enfuego Chompy 3
+</td>
+<td>Fire
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>Fangs in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Frigid Chompy
+</td>
+<td>Water
+</td>
+<td>0
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>Bandit in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Frigid Chompy 2
+</td>
+<td>Water
+</td>
+<td>0
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>Auric in&nbsp;<i>Glacier Gully.</i>
+</td></tr>
+<tr>
+<td>Frigid Chompy 3
+</td>
+<td>Water
+</td>
+<td>0
+</td>
+<td>2
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>Spooooky in&nbsp;<i>Rumbletown.</i>
+</td></tr>
+<tr>
+<td>Spiderlings
+</td>
+<td>None
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>Fangs in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Spiderlings 2
+</td>
+<td>None
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>Bandit in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Spiderlings 3
+</td>
+<td>Air
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>3
+</td>
+<td>0
+</td>
+<td>Fangs in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Chompy
+</td>
+<td>None
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>1
+</td>
+<td>Fangs in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Chompy 2
+</td>
+<td>Earth
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>1
+</td>
+<td>Fangs in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Chompy 3
+</td>
+<td>Earth
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>1
+</td>
+<td>Chance in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Axecutioner
+</td>
+<td>None
+</td>
+<td>3
+</td>
+<td>3
+</td>
+<td>3
+</td>
+<td>3
+</td>
+<td>Quigley in&nbsp;<i>Rumbletown</i>
+</td></tr>
+<tr>
+<td>Arkeyan Duelist
+</td>
+<td>None
+</td>
+<td>4
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>Auric on the&nbsp;<i>Dread-Yacht.</i>
+</td></tr>
+<tr>
+<td>Bag O' Boom
+</td>
+<td>None
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>4
+</td>
+<td>0
+</td>
+<td>Auric in&nbsp;<i>Wilikin Village.</i>
+</td></tr>
+<tr>
+<td>Shadow Duke
+</td>
+<td>None
+</td>
+<td>0
+</td>
+<td>4
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>Auric in&nbsp;<i>Kaos' Kastle.</i>
+</td></tr>
+<tr>
+<td>Arkeyan Sniper
+</td>
+<td>None
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>4
+</td>
+<td>Auric in&nbsp;<i>Lost City of Arkus.</i>
+</td></tr>
+<tr>
+<td>CONQUERTRON
+</td>
+<td>None
+</td>
+<td>4
+</td>
+<td>4
+</td>
+<td>4
+</td>
+<td>4
+</td>
+<td>Auric in <i>Bringing Order to Kaos!</i>
+</td></tr>
+<tr>
+<td>Arkeyan Bomber
+</td>
+<td>Air
+</td>
+<td>2
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>3
+</td>
+<td>Clam-Tron 4000 in&nbsp;<i>The Oracle.</i>
+</td></tr>
+<tr>
+<td>Boulder Bowler
+</td>
+<td>Earth
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>Criggler in&nbsp;<i>Drill-X's Big Rig.</i>
+</td></tr>
+<tr>
+<td>Boom Fiend
+</td>
+<td>Fire
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>Smoltergeist in&nbsp;<i>Glacier Gully.</i>
+</td></tr>
+<tr>
+<td>Armored Chompy
+</td>
+<td>Water
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>Fangs in&nbsp;<i>Troll Home Security.</i>
+</td></tr>
+<tr>
+<td>Life Spell Punk
+</td>
+<td>Magic
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>Rutherford in&nbsp;<i>Wilikin Village.</i>
+</td></tr>
+<tr>
+<td>Grenade General
+</td>
+<td>Tech
+</td>
+<td>0
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>Freebot 002 in <i>Bringing Order to Kaos!</i>
+</td></tr>
+<tr>
+<td>Root Runner
+</td>
+<td>Life
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>Rutherford in&nbsp;<i>Wilikin Village.</i>
+</td></tr>
+<tr>
+<td>Bark Demon
+</td>
+<td>Life
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>2
+</td>
+<td>Unobtainable
+</td></tr>
+<tr>
+<td>Trog Wanderer
+</td>
+<td>Undead
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>Butterworth in&nbsp;<i>Kaos' Kastle.</i>
+</td></tr>
+<tr>
+<td>Dragonet
+</td>
+<td>Air
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>2
+</td>
+<td>Weapon Master in&nbsp;<i>Autogyro Adventure.</i>
+</td></tr>
+<tr>
+<td>Crystal Golem
+</td>
+<td>Earth
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>Freebot 001 in&nbsp;<i>Bringing Order to Kaos!</i>
+</td></tr>
+<tr>
+<td>Blazer Brewer
+</td>
+<td>Fire
+</td>
+<td>3
+</td>
+<td>2
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td>Auric in&nbsp;<i>Molekin Mountain.</i>
+</td></tr>
+<tr>
+<td>Slobbering Mutticus
+</td>
+<td>Water
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>Quigley in&nbsp;<i>Rumbletown.</i>
+</td></tr>
+<tr>
+<td>Arkeyan Crackler
+</td>
+<td>Magic
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>Freebot 001 in&nbsp;<i>Bringing Order to Kaos!</i>
+</td></tr>
+<tr>
+<td>Arkeyan Shield Juggernaut
+</td>
+<td>Tech
+</td>
+<td>0
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>3
+</td>
+<td>Quigley in&nbsp;<i>Rumbletown.</i>
+</td></tr>
+<tr>
+<td>Goliath Drow
+</td>
+<td>Life
+</td>
+<td>4
+</td>
+<td>0
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>Conlan in&nbsp;<i>Kaos' Kastle.</i>
+</td></tr>
+<tr>
+<td>Gargantula
+</td>
+<td>Undead
+</td>
+<td>0
+</td>
+<td>4
+</td>
+<td>1
+</td>
+<td>1
+</td>
+<td>Auric in&nbsp;<i>Cutthroat Carnival.</i>
+</td></tr>
+<tr>
+<td>Trogmander
+</td>
+<td>Magic
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>Quigley in&nbsp;<i>Rumbletown.</i>
+</td></tr>
+<tr>
+<td>Arkeyan Ultron
+</td>
+<td>Tech
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>2
+</td>
+<td>Auric in&nbsp;<i>Secret Vault of Secrets.</i>
+</td></tr>
