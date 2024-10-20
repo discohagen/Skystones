@@ -10,7 +10,10 @@ class Card(
         return name
     }
 
-    fun beats(other: Card, direction: Direction): Boolean {
+    fun beats(other: Card?, direction: Direction): Boolean {
+        if (other == null) {
+            return false
+        }
         return when (direction) {
             Direction.NORTH -> this.northSpikes > other.southSpikes
             Direction.EAST -> this.eastSpikes > other.westSpikes
